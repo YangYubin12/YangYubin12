@@ -9,7 +9,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/89b52efeb1444c107d4e810705983737057a6dbaf44dd97977abb35ffa92dda9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d43253242253242266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/89b52efeb1444c107d4e810705983737057a6dbaf44dd97977abb35ffa92dda9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d43253242253242266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp; 
   <br><br>
 </p>
-<h1>🧸Me🧸</h1>
-<h2><a href="https://YangYubin12.github.io/">click!</a></h2>
+<h2>🧸Me🧸</h2>
+<h1><a href="https://YangYubin12.github.io/">click!</a></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangYubin12&show_icons=true&theme=graywhite)
