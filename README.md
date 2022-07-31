@@ -10,6 +10,6 @@
   <br><br>
 </p>
 <h2>🧸Me🧸</h2>
-<p><a href="https://YangYubin12.github.io/">click!</a></p>
+<h2><a href="https://YangYubin12.github.io/">click!</a></h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangYubin12&show_icons=true&theme=graywhite)
