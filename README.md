@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white" width="75" height="20">&nbsp;
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" width="50" height="20">&nbsp;
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="80" height="20">&nbsp;
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" width="75" height="20">&nbsp;
 </p>
 <h3>🧸Me🧸</h3>
 
