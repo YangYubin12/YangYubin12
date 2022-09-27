@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white" width="75" height="20">&nbsp;
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" width="45" height="20">&nbsp;
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="80" height="20">&nbsp;
-</p>
+</p><br>
 <h3>🍒 Me 🍒</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangYubin12&show_icons=true&theme=graywhite)
-<br>
+<br><br><br>
 
 <img src=https://user-images.githubusercontent.com/102217712/192445479-ebabbfd4-0850-4869-a1d7-ee04cee96635.gif width="495">
