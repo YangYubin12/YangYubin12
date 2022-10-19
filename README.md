@@ -8,7 +8,7 @@
 
 <h2 align="center">👩🏻‍💻 Connect with me 👩🏻‍💻</h2>
 <p align="center">
-<a href="https://instagram.com/yu_binin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yu_binin" height="30" width="40" /></a>
+<a href="https://instagram.com/yubininin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yu_binin" height="30" width="40" /></a>
 <a href="https://discord.gg/양유빈#8360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="양유빈#8360" height="30" width="40" /></a>
 </p>
 <br>
