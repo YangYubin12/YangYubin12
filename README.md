@@ -13,9 +13,9 @@
 </p>
 <br>
 <h2 align="center">🧸 Me 🧸</h2>
-<!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yangyubin12&show_icons=true&locale=en&layout=compact" alt="yangyubin12" /></p>-->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yangyubin12&show_icons=true&locale=en&layout=compact" alt="yangyubin12" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yangyubin12&" alt="yangyubin12" /></p>
 
-<!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yangyubin12&show_icons=true&locale=en" alt</p>-->
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yangyubin12&show_icons=true&locale=en" alt</p>
 
 <p align="center"><img src=https://user-images.githubusercontent.com/102217712/192445479-ebabbfd4-0850-4869-a1d7-ee04cee96635.gif width="494"></p>
