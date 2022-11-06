@@ -18,4 +18,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yangyubin12&show_icons=true&locale=en" alt</p>
 
-<p align="center"><img src=https://user-images.githubusercontent.com/102217712/192445479-ebabbfd4-0850-4869-a1d7-ee04cee96635.gif width="494"></p>
+<!--<p align="center"><img src=https://user-images.githubusercontent.com/102217712/192445479-ebabbfd4-0850-4869-a1d7-ee04cee96635.gif width="494"></p>-->
