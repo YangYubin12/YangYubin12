@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Yubin!👋🏻</h1>
+<h1 align="center">Hi! I'm Yubin👋🏻</h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yangyubin12" alt="yangyubin12" /></a> </p>
 <br>
