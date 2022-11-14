@@ -1,4 +1,4 @@
-<h1>I'm representing for them gangstas all across the world<br>
+<!-- <h1>I'm representing for them gangstas all across the world<br>
   <h3>나는 전 세계의 갱스터들을 대표하지.</h3></h1>
   
   
@@ -7,10 +7,10 @@
   <h3>여전히 로우라이더의 여자들과 즐겨</h3><br>
 </h1>
 
-![image](https://user-images.githubusercontent.com/102217712/201551651-29f8f6f6-bd9a-4b15-9be1-414a4a9810d7.png)
+![image](https://user-images.githubusercontent.com/102217712/201551651-29f8f6f6-bd9a-4b15-9be1-414a4a9810d7.png) -->
 
 
-<!-- <h1 align="center">Hi! I'm Yubin👋🏻</h1>
+<h1 align="center">Hi! I'm Yubin👋🏻</h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yangyubin12" alt="yangyubin12" /></a> </p>
 <br>
@@ -29,5 +29,5 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yangyubin12&" alt="yangyubin12" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yangyubin12&show_icons=true&locale=en" alt</p>
--->
+  
 <!--<p align="center"><img src=https://user-images.githubusercontent.com/102217712/192445479-ebabbfd4-0850-4869-a1d7-ee04cee96635.gif width="494"></p>-->
