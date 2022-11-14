@@ -1,7 +1,10 @@
 <h1>I'm representing for them gangstas all across the world<br>
-나는 전 세계의 갱스터들을 대표하지.<br>
-Hittin' them corners in them low-low's girl<br>
-여전히 로우라이더의 여자들과 즐겨<br>
+  <h3>나는 전 세계의 갱스터들을 대표하지.</h3></h1>
+  
+  
+<h1>Hittin' them corners in them low-low's girl<br>
+  
+  <h3>여전히 로우라이더의 여자들과 즐겨</h3><br>
 </h1>
 
 ![image](https://user-images.githubusercontent.com/102217712/201551651-29f8f6f6-bd9a-4b15-9be1-414a4a9810d7.png)
