@@ -11,7 +11,6 @@
 
 
 <h1 align="center">Hi! I'm Yubin!👋🏻</h1>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yangyubin12" alt="yangyubin12" /></a> </p>
 
 <h2 align="center">💡Skills💡</h2>
@@ -29,5 +28,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yangyubin12&" alt="yangyubin12" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yangyubin12&show_icons=true&locale=en" alt</p>
+  
+![snake gif](https://github.com/YangYubin12/YangYubin12/blob/output/github-contribution-grid-snake.svg)
   
 <!--<p align="center"><img src=https://user-images.githubusercontent.com/102217712/192445479-ebabbfd4-0850-4869-a1d7-ee04cee96635.gif width="494"></p>-->
